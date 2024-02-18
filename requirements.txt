@@ -2,7 +2,8 @@
  # Usage: pip install --upgrade pip && pip install -r requirements.txt
 
  # Packages used in the project----------------
- 
+
  pandas
  plotly_express
  streamlit
+ nbformat
