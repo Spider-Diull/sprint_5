@@ -1,0 +1,8 @@
+ # Sprint 5 - Project of Diego Ulloa - Requirements
+ # Usage: pip install --upgrade pip && pip install -r requirements.txt
+
+ # Packages used in the project----------------
+ 
+ pandas
+ plotly_express
+ streamlit
